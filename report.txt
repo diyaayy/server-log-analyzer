@@ -1,0 +1,7 @@
+Log Analysis Report
+Total Logs: 8
+ERROR: 2
+WARNING: 2
+INFO: 4
+Error Percentage: 25.0%
+Most Frequent Log Type: INFO
