@@ -9,7 +9,7 @@ A simple program that analyzes server log files and extracts useful information.
 - Generates summary reports
 
 ## Technologies Used
-- Java / Python 
+- Java
 
 ## How to Run
 1. Clone the repository
